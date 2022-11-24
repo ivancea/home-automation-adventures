@@ -1,6 +1,6 @@
 # Home automation adventures
 
-Opinionated home automation guide and information.
+Guía, consejos e historias sobre la automatización del hogar u oficina
 
 # TO-DO
 - Explain how to use Home Assistant, what it requires, and why to use it
@@ -8,3 +8,13 @@ Opinionated home automation guide and information.
 - Add a list of things to automate in a common house
 - Add a list of smart elements and how to use them with integrations
 - Add a list of useful integrations, automations...
+
+## Elementos
+- Luz pasillo con detector
+- Luz puerta con sensor de puerta
+- sensores temperatura
+- Enchufes de estufas, termo y lavadora
+- Lavavajillas/Lavadora, alertas Telegram
+
+
+Español o inglés?
