@@ -1,6 +1,6 @@
 title: Home automation adventures
 email: ivancea96@outlook.com
-description: Guía, consejos e historias sobre la automatización del hogar u oficina
+description: Guía, consejos e historias sobre la automatización del hogar
 url: "https://ivancea.github.io/home-automation-adventures"
 repository: ivancea/home-automation-adventures
 twitter_username: ivancea96
@@ -9,3 +9,14 @@ github:
   is_project_page: false
 
 theme: jekyll-theme-cayman
+
+collections:
+  pages:
+    output: true
+    permalink: /:collection/:path:output_ext
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
