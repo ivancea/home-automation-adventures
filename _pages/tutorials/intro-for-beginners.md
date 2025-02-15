@@ -35,4 +35,4 @@ Sobre el *qué podemos*, es importante analizar tanto el presupuesto que queremo
 
 Puesto que cada persona tiene unas necesidades, no hay un camino único. En cada página, verás una lista de requisitos. Navega a ellos para ver cómo configurarlos. ¡Asegúrate de leerlos todos antes de ponerte con ello!
 
-Puedes empezar viendo ideas en [la lista de automatizaciones]({% link _pages/automations-list.md %}).
+Puedes empezar viendo ideas en [la lista de automatizaciones]({% link _pages/automations-list.html %}).

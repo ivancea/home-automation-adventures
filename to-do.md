@@ -2,7 +2,8 @@
 
 Guía, consejos e historias sobre la automatización del hogar u oficina
 
-# TO-DO
+## TO-DO
+
 - Explain how to use Home Assistant, what it requires, and why to use it
 - Talk about my own experience automating my home, as a side tale
 - Add a list of things to automate in a common house
@@ -12,6 +13,7 @@ Guía, consejos e historias sobre la automatización del hogar u oficina
 - Lista de casos de uso, relacionados con los elementos y con un precio total
 
 ## Elementos
+
 - Luz pasillo con detectors
 - Luz puerta con sensor de puerta
 - sensores temperatura

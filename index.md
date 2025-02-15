@@ -22,5 +22,5 @@ Si buscas **empezar en la domótica de 0**, puedes empezar por aquí: [Introducc
 
 Si ya conoces el tema y buscas ideas, puedes ir a:
 
-- [Lista de dispositivos]({% link _pages/devices-list.md %})
-- [Lista de automatizaciones y casos de uso]({% link _pages/automations-list.md %})
+- [Lista de dispositivos]({% link _pages/devices-list.html %})
+- [Lista de automatizaciones y casos de uso]({% link _pages/automations-list.html %})
